@@ -1,0 +1,134 @@
+{
+  "posts": [
+    {
+      "title": "Bán nội thất",
+      "content": "Đây là web bán nội thất xây dựng theo mô hình mvc được viết bằng ngôn ngữ php,html,css,javascript,tailwindcss",
+      "Category": "Du an",
+      "except": "#",
+      "CreateAt": "#",
+      "img": "https://res.cloudinary.com/dmeadu2sv/image/upload/v1676557278/anh4_ehedeh.png",
+      "author": "Phạm Tiến,Nguyễn Văn Minh,Nguyễn Hồng Sơn,Nguyễn Duy Hiệp",
+      "id": 2
+    },
+    {
+      "title": "Web bán xe đạp",
+      "content": "Đây là web bán xe đạp xây dựng theo mô hình mvc được viết bằng ngôn ngữ php,html,css,javascript,tailwindcss",
+      "CreateAt": "#",
+      "Category": "Du an",
+      "except": "#",
+      "img": "https://res.cloudinary.com/dmeadu2sv/image/upload/v1676537684/anh2_abt7kp.png",
+      "author": "Nguyễn Văn Minh",
+      "id": 3
+    }
+  ],
+  "projects": [
+    {
+      "name": "Dự án bán nội thất",
+      "content": "Đây là web bán nội thất xây dựng theo mô hình mvc được viết bằng ngôn ngữ php,html,css,javascript,tailwindcss",
+      "gallora": "#",
+      "CreateAt": "#",
+      "Category": "Du an",
+      "except": "#",
+      "Img": "https://res.cloudinary.com/dmeadu2sv/image/upload/v1676557278/anh4_ehedeh.png",
+      "Teams": "team 1",
+      "Skills": "Html,css,php",
+      "link": "https://www.facebook.com/tien.phamxuan.3114",
+      "id": 2
+    },
+    {
+      "name": "Dự án bán nội thất",
+      "content": "Đây là web bán nội thất xây dựng theo mô hình mvc được viết bằng ngôn ngữ php,html,css,javascript,tailwindcss",
+      "gallora": "#",
+      "CreateAt": "#",
+      "Category": "Du an",
+      "except": "#",
+      "Img": "https://res.cloudinary.com/dmeadu2sv/image/upload/v1676557278/anh4_ehedeh.png",
+      "Teams": "team 1",
+      "Skills": "Html,css,php",
+      "link": "https://www.facebook.com/tien.phamxuan.3114",
+      "id": 2
+    },
+    {
+      "name": "Dự án bán nội thất",
+      "content": "Đây là web bán nội thất xây dựng theo mô hình mvc được viết bằng ngôn ngữ php,html,css,javascript,tailwindcss",
+      "gallora": "#",
+      "CreateAt": "#",
+      "Category": "Du an",
+      "except": "#",
+      "Img": "https://res.cloudinary.com/dmeadu2sv/image/upload/v1676557278/anh4_ehedeh.png",
+      "Teams": "team 1",
+      "Skills": "Html,css,php",
+      "link": "https://www.facebook.com/tien.phamxuan.3114",
+      "id": 2
+    }
+  ],
+  "list": [
+    {
+      "id": 1,
+      "name": "Home",
+      "path": "/"
+    },
+    {
+      "id": 2,
+      "name": "About me",
+      "path": "aboutmee"
+    },
+    {
+      "id": 3,
+      "name": "Projects",
+      "path": "/duan"
+    },
+    {
+      "id": 4,
+      "name": "Post",
+      "path": "/baiviet"
+    },
+    {
+      "id": 5,
+      "name": "Setting",
+      "path": "/admin"
+    }
+  ],
+  "info": [
+    {
+      "name": "Phạm Xuân Tiến",
+      "img": "https://res.cloudinary.com/dmeadu2sv/image/upload/v1676393653/z4107351615315_ffa34bc577e0e5cc61d3d395f176ee0e_lxu5tj.jpg",
+      "id": 2
+    }
+  ],
+  "listadmin": [
+    {
+      "id": 1,
+      "name": " Projects",
+      "path": "/projects"
+    },
+    {
+      "id": 2,
+      "name": "Posts",
+      "path": "/postadmin"
+    },
+    {
+      "id": 3,
+      "name": " Info",
+      "path": "/info"
+    },
+    {
+      "id": 4,
+      "name": " About ",
+      "path": "/about"
+    },
+    {
+      "id": 4,
+      "name": "Home",
+      "path": "/"
+    }
+  ],
+  "about": [
+    {
+      "content": "My hobbies are playing sports, especially football ,swimming and billiards",
+      "img": "https://res.cloudinary.com/dmeadu2sv/image/upload/v1676483088/anh2_dmuhww.jpg",
+      "imgcontent": "https://res.cloudinary.com/dmeadu2sv/image/upload/v1676539268/anh3_gydkuj.jpg",
+      "id": 1
+    }
+  ]
+}
